@@ -169,6 +169,18 @@ Brak znaku zapytania na końcu wiersza.
 51. Księga Psalmów, strona 904, przypis 4\
 Jest "Ludy wschodu pijali", powinno "Ludy wschodu pijały" lub "Ludzie wschodu pijali".
 
+52. Księga Psalmów, 118, 97\
+Jest "Każdego", powinno być "każdego".
+
+53. Księga Przysłów, 3, 8\
+Jest "Wtedy", powinno być "wtedy".
+
+54. Księga Przysłów, 9, 13\
+Jest "Ponadto", powinno być "ponadto".
+
+55. Księga Koheleta czyli Eklezjastesa, 5, 6\
+Jest "Żyj", powinno być "żyj".
+
 <br/>
 
 ### Zapraszam serdecznie do przysyłania swoich znalezisk.
