@@ -181,6 +181,66 @@ Jest "Ponadto", powinno być "ponadto".
 55. Księga Koheleta czyli Eklezjastesa, 5, 6\
 Jest "Żyj", powinno być "żyj".
 
+56. Księga Hioba, strona 1099, przypis 2\
+Jest "języka", powinno być "języku".
+
+57. Księga Hioba, 19, 24\
+Wiersz kończy się znakiem zapytania, zamiast kropką.
+
+58. Księga Hioba, 22, 6\
+Jest "Odzienie", powinno być "odzienie".
+
+59. Księga Hioba, 22, 16\
+Jest "Z nurtem", powinno być "z nurtem".
+
+60. Księga Hioba, 41, 13\
+Jest "Płomień", powinno być "płomień".
+
+61. Księga Hioba, 41, 19\
+Jest "Twardy", powinno być "twardy".
+
+62. Księga Mądrości, 12, 5 i 12\
+Niestandardowe cudzysłowy.
+
+63. Księga Mądrości, 12, 18\
+Jest "móc", powinno być "moc".
+
+64. Księga Mądrości, 18, 17\
+Brak przecinka po zwrocie "strasznych snów".
+
+65. Księga Psalmów Salomona, Wprowadzenie, akapit 2\
+Jest "587|586 przed Chr.", powinno być "587|586 r. przed Chr.".
+
+66. Księga Psalmów Salomona, 8, 18\
+Jest "Stanął", powinno być "stanął".
+
+67. Księga Ozeasza, 2, 7\
+Jest "które", powinno być "która".
+
+68. Księga Micheasza, strona 1320, przypis 8\
+Jest "języka", powinno być "język".
+
+69. Księga Habakuka, strona 1342, przypis 3\
+Jest "Synajskiem", powinno być "Synajskim".
+
+70. Księga Zachariasza, Wprowadzenie, akapit 4\
+Jest "Wynika do", powinno być "Wynika to".
+
+71. Księga Zachariasza, strona 1361, przypis 6\
+Jest "Jeziora Galejskiego", powinno być "Jeziora Galilejskiego".
+
+72. Księga Izajasza, 10, 9\
+Brak znaku zapytania na końcu wiersza.
+
+73. Księga Izajasza, strona 1389, przypis 1\
+Jest "W 730 r.", powinno być "W 730 r. przed Chr.".
+
+74. Księga Izajasza, strona 1394, przypis 4\
+Jest "w 701 r.", powinno być "w 701 r. przed Chr.".
+
+75. Księga Izajasza, strona 1402, przypis 2\
+Jest "Przepływała on", powinno być "Przepływała ona".
+
 <br/>
 
 ### Zapraszam serdecznie do przysyłania swoich znalezisk.
