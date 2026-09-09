@@ -241,6 +241,63 @@ Jest "w 701 r.", powinno być "w 701 r. przed Chr.".
 75. Księga Izajasza, strona 1402, przypis 2\
 Jest "Przepływała on", powinno być "Przepływała ona".
 
+76. Księga Izajasza, 33, 7\
+Jest "przed wam", powinno być "przed wami".
+
+77. Księga Izajasza, strona 1410, przypis 2\
+Jest "w 701 r.", powinno być "w 701 r. przed Chr.".
+
+78. Księga Izajasza, strona 1411, przypis 2\
+Jest "w 701 r.", powinno być "w 701 r. przed Chr.".
+
+79. Księga Izajasza, strona 1414, przypis 1\
+Jest "w 605 r.", powinno być "w 605 r. przed Chr.".
+
+80. Księga Izajasza, strona 1415, przypis 2\
+Jest "w 539 r.", powinno być "w 539 r. przed Chr.".
+
+81. Księga Jeremiasza, Wprowadzenie, akapit 2\
+Jest "w 930 r.", powinno być "w 930 r. przed Chr.".
+
+82. Księga Jeremiasza, Wprowadzenie, akapit 3\
+Jest "do 612 r.", powinno być "do 612 r. przed Chr.".
+
+83. Księga Jeremiasza, Wprowadzenie, akapit 3\
+Jest "w 609 r.", powinno być "w 609 r. przed Chr.".
+
+84. Księga Jeremiasza, Wprowadzenie, akapit 3\
+Jest "w 597 r.", powinno być "w 597 r. przed Chr.".
+
+85. Księga Jeremiasza, Wprowadzenie, akapit 3\
+Jest "w 587 r.", powinno być "w 587 r. przed Chr.".
+
+86. Księga Jeremiasza, 1, 17\
+Jest ". Mówi Pan.", powinno być " - mówi Pan".
+
+87. Księga Jeremiasza, 1, 19\
+Jest ". Mówi Pan.", powinno być " - mówi Pan".
+
+88. Księga Jeremiasza, 20, 2\
+Brak przecinka po zwrocie "w bramie".
+
+89. Księga Jeremiasza, strona 1470, przypis 6\
+Jest "W latach 722-721", powinno być "W latach 722-721 przed Chr.".
+
+90. Księga Jeremiasza, strona 1498, przypis 3\
+Jest "na przełomie 561/560", powinno być "na przełomie lat 561/560" lub "na przełomie 561/560 r.".
+
+91. Lamentacje, Wprowadzenie, akapit 4\
+Jest "po upływie dwóch i pół tysiącach lat", powinno być "po upływie dwóch i pół tysiąca lat" lub "po dwóch i pół tysiącach lat".
+
+92. Lamentacje, 1, 16\
+Niepotrzebny znak nowego wiersza po pierszym przecinku.
+
+93. Lamentacje, 1, 17\
+Jest "nie ma, kto by go pocieszył", powinno być "nie ma nikogo, kto by go pocieszył" lub "nie ma kto go pocieszyć".
+
+94. List Jeremiasza, Wprowadzenie, akapit 3\
+Jest "druga w 587 lub 596", powinno być "druga w 587 lub 586".
+
 <br/>
 
 ### Zapraszam serdecznie do przysyłania swoich znalezisk.
